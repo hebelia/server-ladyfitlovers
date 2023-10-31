@@ -21,7 +21,7 @@ I'm using markdown "reference style" links for readability.
 <br />
 <div align="center">
   <!-- <a href="https://github.com/hebelia/client-ladyfitlovers">
-    <img src="./public//img/ladyBot.png" alt="icon" width="80" height="80">  
+    <img src="https://github.com/hebelia/client-ladyfitlovers/blob/main/public//img/ladyBot.png" alt="icon" width="80" height="80">  
     <img src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png" height="80"alt="logo">
   </a> -->
 
@@ -131,7 +131,7 @@ I'm using markdown "reference style" links for readability.
 <details>
   <summary> <a> Landing </a></summary>
 
-![visualization](./public/img/Landing.png)
+![visualization](https://github.com/hebelia/client-ladyfitlovers/blob/main/public/img/Landing.png)
 
 </details>
 
@@ -142,7 +142,7 @@ I'm using markdown "reference style" links for readability.
 
 </details> -->
 <div align="center">
-    <img src="./public/img/Logo-slide.png" alt="icon"  >
+    <img src="https://github.com/hebelia/client-ladyfitlovers/blob/main/public/img/Logo-slide.png" alt="icon"  >
 </div>
 
 <br />
