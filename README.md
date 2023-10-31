@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./public/svg/LADYFIT1.svg" alt="icon" height="200">
+<img src="https://github.com/hebelia/client-ladyfitlovers/blob/main/public/svg/LADYFIT1.svg" alt="icon" height="200">
 </div>
 <a id="readme-top"></a>
 <!-- PROJECT SHIELDS -->
